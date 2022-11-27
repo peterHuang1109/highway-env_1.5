@@ -9,14 +9,14 @@ Also, including the training results screenshot from tensorboard.
     <em>Three lanes highway first attempt.</em>
 </p>
 <p align="center">
-    <img src="https://github.com/peterHuang1109/highway-env_1.5/blob/master/results_Answer/highway.gif"><br/>
-    <em>An episode of one of the environments available in highway-env.</em>
+    <img src="https://github.com/peterHuang1109/highway-env_1.5/blob/master/results_Answer/highway_2.gif"><br/>
+    <em>Three lanes highway second attempt.</em>
 </p>
 <p align="center">
-    <img src="https://github.com/peterHuang1109/highway-env_1.5/blob/master/results_Answer/highway.gif"><br/>
-    <em>An episode of one of the environments available in highway-env.</em>
+    <img src="https://github.com/peterHuang1109/highway-env_1.5/blob/master/results_Answer/roundabout.gif"><br/>
+    <em>Two lanes roundabout first attempt.</em>
 </p>
 <p align="center">
-    <img src="https://github.com/peterHuang1109/highway-env_1.5/blob/master/results_Answer/highway.gif"><br/>
-    <em>An episode of one of the environments available in highway-env.</em>
+    <img src="https://github.com/peterHuang1109/highway-env_1.5/blob/master/results_Answer/roundabout_2.gif"><br/>
+    <em>Two lanes roundabout second attempt.</em>
 </p>
