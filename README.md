@@ -6,6 +6,17 @@ Including trained agent driving on Highway with three lanes and driving under ro
 Also, including the training results screenshot from tensorboard.
 <p align="center">
     <img src="https://github.com/peterHuang1109/highway-env_1.5/blob/master/results_Answer/highway.gif"><br/>
+    <em>Three lanes highway first attempt.</em>
+</p>
+<p align="center">
+    <img src="https://github.com/peterHuang1109/highway-env_1.5/blob/master/results_Answer/highway.gif"><br/>
     <em>An episode of one of the environments available in highway-env.</em>
 </p>
-
+<p align="center">
+    <img src="https://github.com/peterHuang1109/highway-env_1.5/blob/master/results_Answer/highway.gif"><br/>
+    <em>An episode of one of the environments available in highway-env.</em>
+</p>
+<p align="center">
+    <img src="https://github.com/peterHuang1109/highway-env_1.5/blob/master/results_Answer/highway.gif"><br/>
+    <em>An episode of one of the environments available in highway-env.</em>
+</p>
